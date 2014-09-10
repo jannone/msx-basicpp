@@ -1,0 +1,10 @@
+version 0.1:
+
+* initial release (2007-03-17)
+* features: 
+	- enumerators
+	- light structures
+	- code blocks without line numbers
+	- inline evaluation
+	- C-style IF/ELSE, with nested blocks
+	- file includes 
